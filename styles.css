@@ -13,9 +13,13 @@
     src: url(RalewayBold-rXY9.ttf);
 }
 
+html {
+    height: 100%;
+}
+
 body {
     width: 70%;
-    height: 100vh;
+    min-height: 100%;
     position: relative;
     margin: 0;
     left: 15%;
@@ -126,14 +130,16 @@ h1 {
 }
 
 .main-content-header,
-.announcements-header {
+.announcements-header,
+.trending-header {
     font-family: header-bold;
     font-size: 18px;
+    align-self: center;
 }
 
 .main-side {
     display: grid;
-    grid-template-rows: 0.5fr minmax(280px, 20%) 1fr minmax(280px, 20%);
+    grid-template-rows: 0.5fr minmax(280px, 20%) 0.5fr minmax(280px, 20%);
     margin: 20px 20px 20px 0px;
 }
 
@@ -184,7 +190,7 @@ h1 {
 }
 
 .trending-header {
-    margin-top: 40px;
+    margin-top: 0px;
     margin-bottom: 0;
 }
 
