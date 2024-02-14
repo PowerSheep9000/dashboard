@@ -1,5 +1,7 @@
 # dashboard
 
+Created using CSS Grid primarily and a little bit of Flexbox.
+
 Dashboard-icon by Syahrul Hidayatullah via Flaticon (https://www.flaticon.com/free-icon/apps_10857491?term=dashboard&page=4&position=9&origin=search&related_id=10857491)
 
 Home-icon by Rendyudha via Flaticon (https://www.flaticon.com/free-icon/home_9664027?term=home&page=1&position=39&origin=search&related_id=9664027)
@@ -23,3 +25,15 @@ Favourite-icon by designvector10 via Flaticon (https://www.flaticon.com/free-ico
 Eye-icon by Freepik via Flaticon (https://www.flaticon.com/free-icon/cat-eye_98479?term=eye&page=3&position=16&origin=search&related_id=98479)
 
 Share-icon by Freepik via Flaticon (https://www.flaticon.com/free-icon/share_1358023?term=share&page=1&position=1&origin=search&related_id=1358023)
+
+Cthulhu-icon by Smashicons via Flaticon (https://www.flaticon.com/free-icon/cthulhu_1137128?term=cthulhu&page=1&position=4&origin=search&related_id=1137128)
+
+Dragon-icon by Smashicons via Flaticons (https://www.flaticon.com/free-icon/dragon_2742527?term=dragon&page=1&position=50&origin=search&related_id=2742527)
+
+Wizard-icon by max.icons via Flaticon (https://www.flaticon.com/free-icon/wizard_3943850?term=wizard&related_id=3943850)
+
+Paw-icon by Mihimihi via Flaticon (https://www.flaticon.com/free-icon/paw_8277564?term=paw&page=1&position=10&origin=search&related_id=8277564)
+
+Magnifying glass-icon by Pixel perfect via Flaticon (https://www.flaticon.com/free-icon/loupe_622669?term=magnifying+glass&page=1&position=9&origin=search&related_id=622669)
+
+Bell-icon by Freepik via Flaticon (https://www.flaticon.com/free-icon/notification_2645897?term=bell&page=1&position=6&origin=search&related_id=2645897)
